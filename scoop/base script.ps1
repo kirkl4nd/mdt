@@ -5,7 +5,7 @@ scoop bucket add extras
 scoop bucket add java
 scoop bucket add jetbrains
 scoop update *
-scoop install git sudo nano vlc winrar obs-studio sharex neofetch sublime-text googlechrome audacity python openjdk --global
+scoop install git sudo nano vlc winrar 7zip obs-studio sharex neofetch sublime-text googlechrome firefox audacity python openjdk --global
 scoop update *
 scoop uninstall lessmsi --global
 # Copy shortcuts
