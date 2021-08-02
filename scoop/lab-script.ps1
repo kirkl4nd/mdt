@@ -5,7 +5,7 @@ scoop bucket add extras
 scoop bucket add java
 scoop bucket add jetbrains
 scoop update *
-scoop install rust vscode intellij-idea pycharm webstorm eclipse-java nodejs notepadplusplus blender sweethome3d --global
+scoop install rust eclipse-java vscode sweethome3d blender pycharm webstorm intellij-idea nodejs notepadplusplus --global
 scoop update *
 scoop uninstall lessmsi --global
 # Copy shortcuts
